@@ -8,10 +8,13 @@
     "build": "npx vite build",
     "preview": "npx vite preview"
   },
-  "dependencies": {
+ "dependencies": {
     "lucide-react": "^0.383.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.3.1"
+
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
